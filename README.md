@@ -2,7 +2,7 @@
 Cloud Functions for Firebase is a serverless framework that lets you automatically run backend code in response to events triggered by Firebase features and HTTPS requests. Your JavaScript or TypeScript code is stored in Google's cloud and runs in a managed environment. There's no need to manage and scale your own servers.
 Before deploy your functions: 
 1. Create a firebase project and firestore database table which called **users**
-here image 1 
+![image](https://user-images.githubusercontent.com/38297965/213161614-bb061263-9b3a-4963-9250-7b78b2715b1f.png)
 2. Install the latest version of nodejs. [Download node.js](https://nodejs.org/en/)
 - `npm install -g npm`
 3. Install Firebase CLI
