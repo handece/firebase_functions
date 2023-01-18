@@ -17,3 +17,9 @@ Before deploy your functions:
 5. Write the functions into the created index.js
 - According to this code, getting status true from users collection, and is updated status false every day at 00:00 am.
 - `firebase deploy`
+
+## References
+- [NodeJS](https://nodejs.org/en/)
+- [npm Docs](https://docs.npmjs.com/cli/v9/commands/npm-install)
+- [Cloud Functions for Firebase](https://firebase.google.com/docs/functions)
+- [The cron schedule expression editor](https://crontab.guru/)
